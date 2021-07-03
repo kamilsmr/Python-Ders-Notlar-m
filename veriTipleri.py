@@ -7,8 +7,6 @@ c = 3.2 * 5.4
 d = 45.6 / 6.3
 e = 2 + 3 - 1 * 9 
 
-
-
 print(x)
 print(y)
 print(z)
@@ -38,3 +36,18 @@ print(c)
 # 2. değişken issmleri kelimelerden oluşuyorsa aralarında boşluk olamaz
 # 3. semboller değişken ismi içinde kullanılamaz sadece _ kullanılır
 # 4. tanımlı anahtar kelimeler değişken ismi olarak kullanılamazlar. örnek while do if vb..
+
+#dairenin çevresi
+pi_sayısı = 3.14
+çap = 4
+çevre = pi_sayısı * çap
+print (çevre)
+
+# değerleri değiştirme
+a =3
+b =4
+a,b = b,a
+print(a)
+print(b)
+
+
