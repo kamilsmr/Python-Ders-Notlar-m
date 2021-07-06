@@ -94,23 +94,3 @@
 # parantez önce
 # çarpma ve bölme herzaman toplama ve çıkarmadan önce yapılır
 # işlemler soldan sağa doğru yapılır.
-
-# stringler
-# eğer tek veya çift tırnak ile nasıl başlarsa öyle bitmesi gerekir.
-
-# print('kamil')
-# print("kamil")
-# print("""kamil """)
-# kullanım yanlış
-# print("kamil')
-# iki tarz yazımı var kesmeli ifadenin
-# print("kamil'in kalemi var")
-# print('kamil\'in kalemi var')
-
-# string indexleri
-
-
-
-
-
-

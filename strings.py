@@ -34,4 +34,23 @@ a = "Bir gun cok degerlidir."
 # print(a[:])
 # print(a[:-1])
 # print(a[::2])
-print(a[3:18:2])
+# print(a[3:18:2])
+# print(a[::-1])
+
+# len uzunluğunu bulma.
+# string = "istanbul"
+# print(len(string))
+# string[3] = a # strinler değiştirilemez.
+
+# x = "python"
+# print(x*3)
+
+# x = "python"
+# y = "java"
+# print(x+y)
+
+# stringler değiştirilemez fakat deiştirmek istersek yeni bir string yapmalıyız
+
+# x = "kamil"
+# x = "ali" + "kamil"
+# print(x)
