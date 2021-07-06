@@ -27,7 +27,7 @@
 
 # string parçalama 
 
-a = "Bir gun cok degerlidir."
+# a = "Bir gun cok degerlidir."
 # print(a[3:10])
 # print(a[:5])
 # print(a[6:])
@@ -54,3 +54,8 @@ a = "Bir gun cok degerlidir."
 # x = "kamil"
 # x = "ali" + "kamil"
 # print(x)
+
+# \n satır atlama
+# print("merhaba\nnasilsin\nnasilgidiyor\n")
+
+
