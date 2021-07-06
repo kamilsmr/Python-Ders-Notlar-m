@@ -58,4 +58,23 @@
 # \n satır atlama
 # print("merhaba\nnasilsin\nnasilgidiyor\n")
 
+# \t boşluk bırakma
+# print("ali\tmehmet\tselim")
+# print("ali\t\tmehmet\t\tselim")
+
+# sep parametresi 
+# print("ali","ahmet","mehmet",sep="/")
+# print("ali","ahmet","mehmet",sep="\n")
+
+
+# print("01","02","2021",sep="/")
+
+# * kullanma
+# print(*"python")
+# print(*"python",sep=".")
+
+#formatlama
+# a=2
+# b=5
+# print("{} + {} = {} ye esittir.".format(a,b,a+b))
 
